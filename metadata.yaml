@@ -1,0 +1,49 @@
+_repo: Old-Deccan-Daysor-Hindoo-Fairy-Legends-Current-in-Southern-India_36696
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Frere, Mary
+    alias: Frere, Mary Eliza Isabella
+    birthdate: 1845
+    deathdate: 1911
+    gutenberg_agent_id: '38427'
+    url: http://www.gutenberg.org/2009/agents/38427
+  contributor:
+    agent_name: Frere, Bartle
+    aliases:
+    - Frere, Sir Bartle
+    - Frere, Henry Barle Edward
+    - Frere, Henry Bartle Edward, Sir, bart.
+    birthdate: 1815
+    deathdate: 1884
+    gutenberg_agent_id: '38428'
+    url: http://www.gutenberg.org/2009/agents/38428
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- India'
+- !lcsh 'Folklore -- India'
+tableOfContents: Introduction -- The collector's apology -- The narrator's narrative
+  -- Punchkin -- A funny story -- Brave Seventee Bai -- Truth's triumph -- Rama and
+  Luxman; or, the learned owl -- Little Surya Bai -- The wanderings of Vicram Maharajah
+  -- Less inequality than men deem -- Panch-Phul Ranee -- How the Sun, the Moon and
+  the Wind went out to dinner -- Singh Rajah and the cunning little Jackals -- The
+  Jackal, the Barber and the Brahmin who had seven daughters -- Tit for tat -- The
+  Brahmin, the Tiger and the six judges -- The selfish Sparrow and the houseless Crows
+  -- The valiant Chattee-maker -- The Rakshas' palace -- The Blind Man, the Deaf Man
+  and the donkey -- Muchie Lal -- Chundun Rajah -- Sodewa Bai -- Chandra's vengeance
+  -- How the three clever men outwitted the Demons -- The Alligator and the Jackal.
+title: Old Deccan Days; or, Hindoo Fairy Legends Current in Southern India
+url: http://www.gutenberg.org/ebooks/36696
